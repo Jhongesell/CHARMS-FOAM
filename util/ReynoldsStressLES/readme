@@ -1,0 +1,10 @@
+   
+    It cCalculates and writes the full Reynolds stress R for the current time step.
+
+    It is only for LES simulations. For RANS simulutionls, use the generic R tool.
+
+    In the current setup of OpenFOAM, there is no direct way to calcualte the Reynolds 
+    stress. To use this tool, a LES solver should record the R field and do statistics on it.
+    This tool will read a field called RMean (from fieldAverage) and add the contribution to the 
+    resolved part. 
+
