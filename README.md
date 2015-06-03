@@ -10,7 +10,7 @@ Penn State University
 
 Web: [http://water.engr.psu.edu/liu/] (http://water.engr.psu.edu/liu/)
 
-\_C\_omputational Hydraulics And Research Modeling Suite based on OpenFOAM
+Computational Hydraulics And Research Modeling Suite based on OpenFOAM
 -----------------------------------------------------------------------
 0. CHARMS-FOAM is a repository of computational hydraulics models and tools developed in OpenFOAM.
 0. These modoles and tools are mosltly produced by Dr. Xiaofeng Liu's Environmental Fluid Dynamics Group at Penn State University, with contributions from his collaborators and other parties.
