@@ -1,5 +1,14 @@
 # CHARMS-FOAM
 =======================================================================
+contact: Xiaofeng Liu, Ph.D., P.E., 
+
+Assistant Professor
+
+Department of Civil and Environmental Engineering
+
+Penn State University
+
+Web: [http://water.engr.psu.edu/liu/] (http://water.engr.psu.edu/liu/)
 
 Computational Hydraulics And Research Modeling Suite based on OpenFOAM
 -----------------------------------------------------------------------
