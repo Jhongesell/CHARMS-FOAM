@@ -1,0 +1,2 @@
+include R.dep
+include compatibilityFvPatchFields/turbulentIntensityKineticEnergyInlet/turbulentIntensityKineticEnergyInletFvPatchSymmTensorField.dep

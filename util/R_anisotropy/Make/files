@@ -1,0 +1,4 @@
+R_anisotropy.C
+compatibilityFvPatchFields/turbulentIntensityKineticEnergyInlet/turbulentIntensityKineticEnergyInletFvPatchSymmTensorField.C
+
+EXE = $(FOAM_USER_APPBIN)/R_anisotropy

@@ -1,0 +1,3 @@
+SOURCE = \
+R.C\
+compatibilityFvPatchFields/turbulentIntensityKineticEnergyInlet/turbulentIntensityKineticEnergyInletFvPatchSymmTensorField.C

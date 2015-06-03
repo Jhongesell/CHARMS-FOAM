@@ -1,0 +1,4 @@
+  
+  It calculates and writes the Reynolds stress R and then calculate 
+  the anisotropy for the current time step.
+

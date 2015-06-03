@@ -1,0 +1,3 @@
+DEPENDENCIES = \
+R.dep\
+compatibilityFvPatchFields/turbulentIntensityKineticEnergyInlet/turbulentIntensityKineticEnergyInletFvPatchSymmTensorField.dep
