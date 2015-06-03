@@ -1,0 +1,3 @@
+A modification of the origial perturbU tool for open channel flows. It creates the initial flow condition for LES simulations.
+
+In the constant/transportProperties file, user needs to specify water depth h, nu, mean velocity Ubar, and frictional Reynolds number Re_tau.
