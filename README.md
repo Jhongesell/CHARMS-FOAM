@@ -28,3 +28,9 @@ Large repository of computational hydraulics models for:
 5. porous media flows
 6. immersed boundary method for complex geometries
 7. rigid body dynamics (coupled with third-party code)
+
+Limitations:
+-----------------------------------------------------------------------
+0. Most of codes are developed either in OpenFOAM v2.2 or 2.3. To use them with other OpenFOAM versions, some modifications may be necessary.
+1. Some codes may have been developed using even older version of OpenFOAM. Help is welcome to modernized these codes.
+2. Documentation is not complete. We try to provide as much notes in the code as possible, as well as pointing to appropriate references. 
