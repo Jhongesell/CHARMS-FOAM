@@ -1,0 +1,9 @@
+
+    It calculates and writes the velocity field U of water phase only.
+
+    This tools is designed for interFoam alike solvers. In some applications,
+    we are only interested in the velocity of water phase.
+
+    The -noWrite option just outputs the max/min values without writing
+    the field.
+

@@ -1,0 +1,7 @@
+
+    It calculates and writes the scalar field of total kinetic energy at
+    each time.
+
+    In this case, totalKE = \int_V 0.5(U&U) dV. It does not consider the
+    models (RANS or LES). So be careful in interpreting the meaning of totalKE.
+
