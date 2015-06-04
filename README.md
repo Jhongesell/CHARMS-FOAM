@@ -18,7 +18,7 @@ Web: [http://water.engr.psu.edu/liu/] (http://water.engr.psu.edu/liu/)
 0. New models will be added over time.
 
 
-Large repository of computational hydraulics models for:
+Large repository of computational hydraulics models (still updating):
 -----------------------------------------------------------------------
 0. free-surface open channel flow
 1. sediment transport (bedload and suspended load)
